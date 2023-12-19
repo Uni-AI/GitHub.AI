@@ -1,2 +1,6 @@
 # GitHub.AI
-# GitHub Copilot  Home: https://github.com/features/copilot wiki: https://en.wikipedia.org/wiki/GitHub_Copilot
+# GitHub Copilot
+Home: https://github.com/features/copilot wiki: https://en.wikipedia.org/wiki/GitHub_Copilot
+
+uses:
+- https://en.wikipedia.org/wiki/OpenAI_Codex
